@@ -1,3 +1,7 @@
 body{
+    background-color: darkgray;
+}
+
+#test{
     background-color: red;
 }
