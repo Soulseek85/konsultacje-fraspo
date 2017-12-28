@@ -1,1 +1,1 @@
-document.getElementById("test").innerHTML = "Test dziaasałania skryptu"
+document.getElementById("naglowek").innerHTML = "Test dziaasałania skryptu"
