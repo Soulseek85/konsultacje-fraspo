@@ -1,19 +1,16 @@
-*
-{
+* {
     padding: 0;
     margin: 0;
 
 }
 
-body
-{
+body {
     margin: auto;
     width: 1006px;
     height: auto;
 }
 
-#naglowek
-{
+#naglowek {
     background-color: bisque;
     width: 1004px;
     height: 150px;
@@ -22,8 +19,7 @@ body
     border: solid blue 1px;
 }
 
-#menuL
-{
+#menuL {
     background-color: aliceblue;
     width: 200px;
     height: 250px;
@@ -33,8 +29,7 @@ body
     border: solid blue 1px;
 }
 
-#tresc
-{
+#tresc {
     background-color: aqua;
     width: 600px;
     height: auto;
@@ -44,8 +39,7 @@ body
     border: solid blue 1px;
 }
 
-#menuR
-{
+#menuR {
     background-color: coral;
     width: 200px;
     height: 250px;
@@ -55,10 +49,29 @@ body
     border: solid blue 1px;
 }
 
-#footer
-{
+#footer {
     background-color: burlywood;
     width: 1004px;
     height: 50px;
     border: solid blue 1px;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+
+}
+
+
+img:hover {
+    -o-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    -webkit-transition: all 0.6s;
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
 }
