@@ -8,18 +8,18 @@
 body
 {
     margin: auto;
-    width: 1000px;
+    width: 1006px;
     height: auto;
 }
 
 #naglowek
 {
     background-color: bisque;
-    width: 1000px;
+    width: 1004px;
     height: 150px;
     text-align: center;
     margin: auto;
-    border: solid blue 10px;
+    border: solid blue 1px;
 }
 
 #menuL
@@ -30,16 +30,18 @@ body
     text-align: center;
     float: left;
     margin: auto;
+    border: solid blue 1px;
 }
 
 #tresc
 {
     background-color: aqua;
     width: 600px;
-    height: 250px;
+    height: auto;
     text-align: center;
     float: left;
     margin: auto;
+    border: solid blue 1px;
 }
 
 #menuR
@@ -50,11 +52,13 @@ body
     text-align: center;
     float: left;
     margin: auto;
+    border: solid blue 1px;
 }
 
 #footer
 {
     background-color: burlywood;
-    width: 1000px;
+    width: 1004px;
     height: 50px;
+    border: solid blue 1px;
 }
