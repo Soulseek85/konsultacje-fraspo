@@ -11,7 +11,7 @@ body {
 }
 
 #naglowek {
-    background-color: bisque;
+    background-color: black;
     width: 1004px;
     height: 150px;
     text-align: center;
@@ -68,10 +68,10 @@ img {
 
 
 img:hover {
-    -o-transition: all 0.6s;
-    -moz-transition: all 0.6s;
-    -webkit-transition: all 0.6s;
-    -moz-transform: scale(1.1);
-    -o-transform: scale(1.1);
-    -webkit-transform: scale(1.1);
+    -o-transition: all 2s;
+    -moz-transition: all 2s;
+    -webkit-transition: all 2s;
+    -moz-transform: scale(2);
+    -o-transform: scale(2);
+    -webkit-transform: scale(2);
 }
