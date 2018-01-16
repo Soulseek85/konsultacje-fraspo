@@ -1,77 +1,77 @@
 * {
-    padding: 0;
-    margin: 0;
+	padding: 0;
+	margin: 0;
 
 }
 
 body {
-    margin: auto;
-    width: 1006px;
-    height: auto;
+	margin: auto;
+	width: 1006px;
+	height: auto;
 }
 
 #naglowek {
-    background-color: black;
-    width: 1004px;
-    height: 150px;
-    text-align: center;
-    margin: auto;
-    border: solid blue 1px;
+	background-color: black;
+	width: 1004px;
+	height: 150px;
+	text-align: center;
+	margin: auto;
+	border: solid blue 1px;
 }
 
 #menuL {
-    background-color: aliceblue;
-    width: 200px;
-    height: 250px;
-    text-align: center;
-    float: left;
-    margin: auto;
-    border: solid blue 1px;
+	background-color: aliceblue;
+	width: 200px;
+	height: 250px;
+	text-align: center;
+	float: left;
+	margin: auto;
+	border: solid blue 1px;
 }
 
 #tresc {
-    background-color: aqua;
-    width: 600px;
-    height: auto;
-    text-align: center;
-    float: left;
-    margin: auto;
-    border: solid blue 1px;
+	background-color: aqua;
+	width: 600px;
+	height: auto;
+	text-align: center;
+	float: left;
+	margin: auto;
+	border: solid blue 1px;
 }
 
 #menuR {
-    background-color: coral;
-    width: 200px;
-    height: 250px;
-    text-align: center;
-    float: left;
-    margin: auto;
-    border: solid blue 1px;
+	background-color: coral;
+	width: 200px;
+	height: 250px;
+	text-align: center;
+	float: left;
+	margin: auto;
+	border: solid blue 1px;
 }
 
 #footer {
-    background-color: burlywood;
-    width: 1004px;
-    height: 50px;
-    border: solid blue 1px;
+	background-color: burlywood;
+	width: 1004px;
+	height: 50px;
+	border: solid blue 1px;
 }
 
 img {
-    height: auto;
-    max-width: 100%;
+	height: auto;
+	max-width: 100%;
 
-    -webkit-transition: all 1s ease;
-    -moz-transition: all 1s ease;
-    -o-transition: all 1s ease;
+	-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
 
 }
 
 
 img:hover {
-    -o-transition: all 2s;
-    -moz-transition: all 2s;
-    -webkit-transition: all 2s;
-    -moz-transform: scale(2);
-    -o-transform: scale(2);
-    -webkit-transform: scale(2);
+	-o-transition: all 2s;
+	-moz-transition: all 2s;
+	-webkit-transition: all 2s;
+	-moz-transform: scale(2);
+	-o-transform: scale(2);
+	-webkit-transform: scale(2);
 }
